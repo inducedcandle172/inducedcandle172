@@ -68,4 +68,4 @@
             </li>
             <li><strong>7:30 PM:</strong> Return to Nagoya.</li>
         </ul>
-        <p><a href="https://inducedcandle172.github.io/inducedcandle172">Back to Page</a
+        <p><a href="https://inducedcandle172.github.io/inducedcandle172">Back to Page</a>
