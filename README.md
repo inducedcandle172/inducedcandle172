@@ -16,13 +16,14 @@
 ---
 
 ## **Key Details**  
-| **Category**       | **Details**                                                                 |  
-|---------------------|-----------------------------------------------------------------------------|  
-| **Hotels**          | Richmond Hotel Nagoya Nayabashi (5 nights), Dormy Inn Nagoya Sakae (2 nights)|  
-| **Transport**       | JR Hida train, Shirakawa-go bus, Nagoya subway                              |  
-| **Attractions**     | Nagoya Castle, Toyota Museum, Nagashima Spa Land, Hida Folk Village         |  
-| **Meals**           | Miso katsu, Hida beef, hitsumabushi, tempura                                |  
-| **Budget**          | ¥358,750 (3 people)                                                        |  
+
+| **Category**       | **Details**                                                                 |
+|:-------------------|:----------------------------------------------------------------------------|
+| **Hotels**         | Richmond Hotel Nagoya Nayabashi (5 nights), Dormy Inn Nagoya Sakae (2 nights)|
+| **Transport**      | JR Hida train, Shirakawa-go bus, Nagoya subway                              |
+| **Attractions**    | Nagoya Castle, Toyota Museum, Nagashima Spa Land, Hida Folk Village         |
+| **Meals**          | Miso katsu, Hida beef, hitsumabushi, tempura                                |
+| **Budget**         | ¥358,750 (3 people)                                                        |
 
 ---
 
