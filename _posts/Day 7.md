@@ -1,8 +1,6 @@
 ---
 title: Day 7
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 ### **Day 7: Departure**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  

@@ -1,8 +1,6 @@
 ---
 title: Day 4
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 ### **Day 4: Nature (UNESCO Village)**  
 **Hotel**: Dormy Inn Nagoya Sakae  

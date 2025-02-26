@@ -1,8 +1,6 @@
 ---
 title: Day 6
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 ### **Day 6: Hida Beef & Takayama**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  

@@ -1,8 +1,6 @@
 ---
 title: Day 2
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 #### **Day 2: Technology & Science**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  

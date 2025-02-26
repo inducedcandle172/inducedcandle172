@@ -1,7 +1,6 @@
 ---
 title: Full Itinerary
-layout: default
-nav_order: 1
+layout: sidebar
 ---
 
 #### **Day 1: Arrival & Nagoya Highlights**  

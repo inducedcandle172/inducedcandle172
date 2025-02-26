@@ -1,8 +1,6 @@
 ---
 title: Day 1
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 #### **Day 1: Arrival & Nagoya Highlights**  
 **Hotel**: [Richmond Hotel Nagoya Nayabashi](https://www.richmondhotel.jp/nagoya-nayabashi/en/)  

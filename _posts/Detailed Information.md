@@ -1,7 +1,6 @@
 ---
 title: Detailed Information
-layout: default
-nav_order: 1
+layout: sidebar
 ---
 ### ** Cost Breakdown**  
 | **Category**       | **Subcategory**                     | **Cost (¥)** | **Cost (HKD)** |  

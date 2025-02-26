@@ -1,8 +1,6 @@
 ---
 title: Day 3
-layout: default
-nav_order: 2
-parent: Full Itinerary
+layout: sidebar
 ---
 ### **Day 3: Theme Park + Outlet Shopping**  
 **Hotel**: [Dormy Inn Nagoya Sakae](https://www.hotespa.net/hotels/nagoya_sakae/)  
