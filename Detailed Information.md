@@ -1,12 +1,26 @@
 ### ** Cost Breakdown**  
-| **Category**       | **Cost (¥)** | **Cost (HKD)** |  
-|---------------------|--------------|----------------|  
-| **Hotels**          | 114,000      | 5,928          |  
-| **Meals**           | 150,000      | 7,800          |  
-| **Transport**       | 75,000       | 3,900          |  
-| **Attractions**     | 50,000       | 2,600          |  
-| **Shopping**        | 50,000       | 2,600          |  
-| **Total**           | **439,000**  | **22,828**     |  
+### **Detailed Cost Breakdown**  
+
+| **Category**       | **Subcategory**                     | **Cost (¥)** | **Cost (HKD)** |  
+|---------------------|-------------------------------------|--------------|----------------|  
+| **Hotels**          | Richmond Hotel (6 nights)           | 72,000       | 3,744          |  
+|                     | Dormy Inn (2 nights)                | 42,000       | 2,184          |  
+| **Meals**           | Breakfast (7 days)                  | 21,000       | 1,092          |  
+|                     | Lunch (7 days)                      | 63,000       | 3,276          |  
+|                     | Dinner (7 days)                     | 66,000       | 3,432          |  
+| **Transport**       | JR Hida Train (Nagoya ↔ Takayama)   | 18,000       | 936            |  
+|                     | Shirakawa-go Bus Pass               | 21,000       | 1,092          |  
+|                     | Nagoya Subway Pass (5 days)         | 3,800        | 198            |  
+|                     | Taxi/Other Transport                | 32,200       | 1,674          |  
+| **Attractions**     | Nagashima Spa Land                  | 17,400       | 905            |  
+|                     | Hida Folk Village                   | 2,100        | 109            |  
+|                     | Nagoya Castle                       | 1,500        | 78             |  
+|                     | Toyota Museum                       | 1,500        | 78             |  
+|                     | Science Museum                      | 2,400        | 125            |  
+|                     | Other Attractions                   | 25,100       | 1,305          |  
+| **Shopping**        | Mitsui Outlet Park                  | 30,000       | 1,560          |  
+|                     | Souvenirs/Snacks                    | 20,000       | 1,040          |  
+| **Total**           |                                     | **439,000**  | **22,828**     |  
 
 ---
 
