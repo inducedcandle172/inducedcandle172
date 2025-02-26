@@ -1,3 +1,10 @@
+title: your document title
+description: your document description
+theme: just-the-docs
+url: https://github.com/inducedcandle172/inducedcandle172
+
+aux_links:
+  Repository: https://github.com/inducedcandle172/inducedcandle172
 plugins:
   - jekyll-relative-links
 relative_links:
