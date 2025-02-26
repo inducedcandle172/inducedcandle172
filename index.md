@@ -1,3 +1,10 @@
+---
+title: 24fs
+layout: default
+nav_order: 2
+parent: Full Itinerary
+sidebar: true
+---
 # Quick Access
 
 [Button 1](https://github.com/inducedcandle172/inducedcandle172/blob/main/Itinerary%20Full.md)  
