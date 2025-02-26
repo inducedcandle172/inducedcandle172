@@ -41,6 +41,9 @@
     }
     #sidebar ul li {
       margin: 5px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
     #sidebar ul li a {
       text-decoration: none;
@@ -48,6 +51,16 @@
     }
     #sidebar ul li a:hover {
       text-decoration: underline;
+    }
+    #sidebar ul li button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+    #sidebar ul li button:hover {
+      background-color: #0056b3;
     }
     #content {
       flex: 1;
@@ -91,16 +104,19 @@
 
         links.forEach(link => {
           const listItem = document.createElement('li');
-          const anchor = document.createElement('a');
-          anchor.href = link.href;
-          anchor.textContent = link.textContent;
-          anchor.addEventListener('click', async (e) => {
-            e.preventDefault();
+          const fileName = document.createElement('span');
+          fileName.textContent = link.textContent;
+
+          const accessButton = document.createElement('button');
+          accessButton.textContent = 'Access';
+          accessButton.addEventListener('click', async () => {
             const markdownResponse = await fetch(link.href);
             const markdownText = await markdownResponse.text();
             document.getElementById('content').innerHTML = marked.parse(markdownText);
           });
-          listItem.appendChild(anchor);
+
+          listItem.appendChild(fileName);
+          listItem.appendChild(accessButton);
           fileList.appendChild(listItem);
         });
       } catch (error) {
@@ -115,7 +131,7 @@
       fileItems.forEach(item => {
         const text = item.textContent.toLowerCase();
         if (text.includes(searchTerm)) {
-          item.style.display = 'block';
+          item.style.display = 'flex';
         } else {
           item.style.display = 'none';
         }
