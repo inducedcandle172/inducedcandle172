@@ -1,31 +1,72 @@
----
-title: Day 5
-layout: sidebar
----
-### **Day 5: Culture & Gardens**  
-**Hotel**: [Richmond Hotel Nagoya Nayabashi](https://www.richmondhotel.jp/nagoya-nayabashi/en/)  
-**Transport**: Subway to Atsuta Shrine (15 mins).  
-
-**Itinerary**:  
-- **8:00 AM**: Breakfast at hotel.  
-- **9:30 AM – 11:30 AM**: **Atsuta Shrine**  
-  - Address: 1-1-1 Jingu, Atsuta Ward  
-  - Website: [Atsuta Shrine](https://www.atsutajingu.org/en/)  
-  - Notes: Free entry, peaceful atmosphere.  
-- **12:00 PM**: Lunch at **Miso Katsu Yabaton**.  
-  - Address: 3-6-18 Osu, Naka Ward  
-  - Website: [Yabaton](https://www.yabaton.com/)  
-- **1:30 PM – 4:00 PM**: **Tokugawa Garden & Art Museum**  
-  - Address: 1001 Tokugawacho, Higashi Ward  
-  - Website: [Tokugawa Garden](https://www.tokugawa-art-museum.jp/english/)  
-  - Tickets: ¥1,400/person (garden + museum).  
-- **5:00 PM – 7:00 PM**: **Oasis 21 + TV Tower**  
-  - Address: 1-11-1 Higashisakura, Higashi Ward  
-  - Website: [Oasis 21](https://www.sakaepark.co.jp/oasis21/english/)  
-  - Notes: Free entry, great for sunset views.  
-- **7:30 PM**: Dinner at **Ishibashi** (tempura).  
-  - Address: 3-14-22 Nishiki, Naka Ward  
-  - Website: [Ishibashi](https://www.ishibashi.co.jp/)  
-
----
-- [Back to Page](https://inducedcandle172.github.io/inducedcandle172)  
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day 5</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h4, h5 {
+            color: #333;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h4><strong>Day 5: Culture & Gardens</strong></h4>
+        <p><strong>Hotel:</strong> <a href="https://www.richmondhotel.jp/nagoya-nayabashi/en/">Richmond Hotel Nagoya Nayabashi</a><br>
+        <strong>Transport:</strong> Subway to Atsuta Shrine (15 mins).</p>
+        <h5>Itinerary:</h5>
+        <ul>
+            <li><strong>8:00 AM:</strong> Breakfast at hotel.</li>      
+            <li><strong>9:30 AM - 11:30 AM:</strong> <strong>Atsuta Shrine</strong>
+                <ul>
+                    <li>Address: 1-1-1 Jingu, Atsuta Ward</li>
+                    <li>Website: <a href="https://www.atsutajingu.org/en/">Atsuta Shrine</a></li>
+                    <li>Notes: Free entry, peaceful atmosphere.</li>
+                </ul>
+            </li>
+            <li><strong>12:00 PM:</strong> Lunch at <strong>Miso Katsu Yabaton</strong>
+                <ul>
+                    <li>Address: 3-6-18 Osu, Naka Ward</li>
+                    <li>Website: <a href="https://www.yabaton.com/">Yabaton</a></li>
+                </ul>
+            </li>
+            <li><strong>1:30 PM - 4:00 PM:</strong> <strong>Tokugawa Garden & Art Museum</strong>
+                <ul>
+                    <li>Address: 1001 Tokugawacho, Higashi Ward</li>
+                    <li>Website: <a href="https://www.tokugawa-art-museum.jp/english/">Tokugawa Garden</a></li>
+                    <li>Tickets: ¥1,400/person (garden + museum).</li>
+                </ul>
+            </li>
+            <li><strong>5:00 PM - 7:00 PM:</strong> <strong>Oasis 21 + TV Tower</strong>
+                <ul>
+                    <li>Address: 1-11-1 Higashisakura, Higashi Ward</li>
+                    <li>Website: <a href="https://www.sakaepark.co.jp/oasis21/english/">Oasis 21</a></li>
+                    <li>Notes: Free entry, great for sunset views.</li>
+                </ul>
+            </li>
+            <li><strong>7:30 PM:</strong> Dinner at <strong>Ishibashi</strong> (tempura)
+                <ul>
+                    <li>Address: 3-14-22 Nishiki, Naka Ward</li>
+                    <li>Website: <a href="https://www.ishibashi.co.jp/">Ishibashi</a></li>
+                </ul>
+            </li>
+        </ul>
+        <p><a href="https://inducedcandle172.github.io/inducedcandle172">Back to Page</a></p>
+    </div>
+</body>
+</html>
