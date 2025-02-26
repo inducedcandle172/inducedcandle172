@@ -73,3 +73,16 @@
 - **Lunch**: Ekiben (train station bento) for the road!  
 
 ---
+
+
+| **Day** | **Theme**               | **Key Spots**                          | **Meals**                     | **Hotel**                     |  
+|---------|-------------------------|----------------------------------------|-------------------------------|-------------------------------|  
+| 1       | History & Food          | Nagoya Castle, Noritake Garden         | Yabaton, Atsuta Horaiken      | Richmond Hotel                |  
+| 2       | Technology & Science    | Toyota Museum, Science Museum          | Kagiya, Yamamotoya            | Richmond Hotel                |  
+| 3       | Theme Park + Outlet     | Nagashima Spa Land, Mitsui Outlet      | Ise Bay Crab                  | Dormy Inn Sakae               |  
+| 4       | Nature (UNESCO)         | Shirakawa-go Village                   | Irori, Yamamotoya             | Dormy Inn Sakae               |  
+| 5       | Culture & Gardens       | Atsuta Shrine, Tokugawa Garden         | Yabaton, Ishibashi            | Richmond Hotel                |  
+| 6       | Hida Beef & Takayama    | Miyagawa Market, Hida Folk Village     | Maruaki, Jyuu-san-ya          | Richmond Hotel                |  
+| 7       | Departure               | Yanagibashi Market, JR Gate Tower Mall | Ekiben                        | Departure                     |  
+
+---
