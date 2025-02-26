@@ -1,14 +1,18 @@
-### **Updated Cost Breakdown**  
-| **Category**       | **Details**                                                                 | **Cost (¥)** |  
-|---------------------|-----------------------------------------------------------------------------|--------------|  
-| **Accommodation**   | 6 nights (Richmond Hotel + Dormy Inn)                                      | 114,000      |  
-| **Meals**           | ~¥5,000/person/day x 7 days                                                | 150,000      |  
-| **Transport**       | Trains (JR Hida, subway), buses (Shirakawa-go)                             | 75,000       |  
-| **Attractions**     | Nagashima Spa Land, Hida Folk Village, museums, etc.                       | 50,000       |  
-| **Shopping**        | Outlet, souvenirs                                                          | 50,000       |  
-| **Total**           | **~439,000** (~$2,950 USD / €2,700)                                       |              |  
+### ** Cost Breakdown**  
+| **Category**       | **Cost (¥)** | **Cost (HKD)** |  
+|---------------------|--------------|----------------|  
+| **Hotels**          | 114,000      | 5,928          |  
+| **Meals**           | 150,000      | 7,800          |  
+| **Transport**       | 75,000       | 3,900          |  
+| **Attractions**     | 50,000       | 2,600          |  
+| **Shopping**        | 50,000       | 2,600          |  
+| **Total**           | **439,000**  | **22,828**     |  
 
 ---
+
+### **Exchange Rate Calculation**  
+- **1 JPY = 0.052 HKD**  
+- Example: ¥114,000 x 0.052 = **5,928 HKD**.  
 
 ---
 
@@ -72,5 +76,3 @@
    - Print or save digital copies of tickets and confirmations.  
 
 ---
-
-This ensures **both hotels are under ¥19,183/night** while maintaining a comfortable and enjoyable trip. Let me know if you need further adjustments! 🌸🚅
