@@ -1,25 +1,129 @@
----
-title: 24fs
-layout: default
-nav_order: 2
-parent: Full Itinerary
-sidebar: true
----
-# Quick Access
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown Viewer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header input {
+      padding: 5px;
+      font-size: 16px;
+    }
+    .container {
+      display: flex;
+      flex: 1;
+    }
+    #sidebar {
+      width: 250px;
+      background-color: #f4f4f4;
+      padding: 10px;
+      overflow-y: auto;
+    }
+    #sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+    #sidebar ul li {
+      margin: 5px 0;
+    }
+    #sidebar ul li a {
+      text-decoration: none;
+      color: #333;
+    }
+    #sidebar ul li a:hover {
+      text-decoration: underline;
+    }
+    #content {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Markdown Viewer</h1>
+    <input type="text" id="search" placeholder="Search markdown files...">
+  </header>
+  <div class="container">
+    <div id="sidebar">
+      <ul id="file-list"></ul>
+    </div>
+    <div id="content"></div>
+  </div>
+  <footer>
+    <p>Created with  by <a href="https://github.com/deepseek-ai" target="_blank">DeepSeek</a></p>
+  </footer>
 
-[Button 1](https://github.com/inducedcandle172/inducedcandle172/blob/main/Itinerary%20Full.md)  
-<button style="background-color: blue; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-  <a href="https://github.com/inducedcandle172/inducedcandle172/blob/main/Itinerary%20Full.md" style="color: white; text-decoration: none;">Full Itinerary</a>
-</button>
+  <script>
+    // Fetch markdown files from /docs directory
+    async function fetchMarkdownFiles() {
+      try {
+        const response = await fetch('/docs');
+        const text = await response.text();
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(text, 'text/html');
+        const links = htmlDoc.querySelectorAll('a[href$=".md"]');
+        const fileList = document.getElementById('file-list');
 
-# Your Document Title
+        links.forEach(link => {
+          const listItem = document.createElement('li');
+          const anchor = document.createElement('a');
+          anchor.href = link.href;
+          anchor.textContent = link.textContent;
+          anchor.addEventListener('click', async (e) => {
+            e.preventDefault();
+            const markdownResponse = await fetch(link.href);
+            const markdownText = await markdownResponse.text();
+            document.getElementById('content').innerHTML = marked.parse(markdownText);
+          });
+          listItem.appendChild(anchor);
+          fileList.appendChild(listItem);
+        });
+      } catch (error) {
+        console.error('Error fetching markdown files:', error);
+      }
+    }
 
-<!-- Button 1 -->
-<a href="https://github.com/inducedcandle172/inducedcandle172/blob/main/Itinerary%20Full.md" style="display: inline-block; background-color: blue; color: white; padding: 10px 15px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">
-Full Itinerary
-</a>
+    // Search functionality
+    document.getElementById('search').addEventListener('input', (e) => {
+      const searchTerm = e.target.value.toLowerCase();
+      const fileItems = document.querySelectorAll('#file-list li');
+      fileItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(searchTerm)) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
 
-<!-- Button 2 -->
-<a href="link-to-file-2.md" style="display: inline-block; background-color: green; color: white; padding: 10px 15px; text-align: center; text-decoration: none; border-radius: 5px; margin: 5px;">
-  Go to File 2
-</a>
+    // Initialize
+    fetchMarkdownFiles();
+  </script>
+</body>
+</html>
