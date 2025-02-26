@@ -91,3 +91,5 @@ layout: sidebar
 | 7       | Departure               | Yanagibashi Market, JR Gate Tower Mall | Ekiben                        | Departure                     |  
 
 ---
+
+- [Back to Page](https://inducedcandle172.github.io/inducedcandle172)  

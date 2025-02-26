@@ -23,3 +23,4 @@ layout: sidebar
   - Notes: Try the crab sushi set (¥2,500/person).  
 
 ---
+- [Back to Page](https://inducedcandle172.github.io/inducedcandle172)  

@@ -28,3 +28,4 @@ layout: sidebar
   - Website: [Ishibashi](https://www.ishibashi.co.jp/)  
 
 ---
+- [Back to Page](https://inducedcandle172.github.io/inducedcandle172)  

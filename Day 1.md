@@ -30,3 +30,4 @@ layout: sidebar
   - Reservation: Required (book via website).  
 
 ---
+- [Back to Page](https://inducedcandle172.github.io/inducedcandle172)  

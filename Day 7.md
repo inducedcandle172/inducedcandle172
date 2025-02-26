@@ -17,4 +17,5 @@ layout: sidebar
   - Notes: Buy souvenirs and snacks.  
 - **Lunch**: Ekiben (train station bento) for the road!  
 
----
+---- 
+[Back to Page](https://inducedcandle172.github.io/inducedcandle172)  
