@@ -1,3 +1,9 @@
+---
+title: Day 7
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 ### **Day 7: Departure**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  
 **Transport**: Walk to Nagoya Station (10 mins).  

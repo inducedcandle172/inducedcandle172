@@ -1,3 +1,9 @@
+---
+title: Day 3
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 ### **Day 3: Theme Park + Outlet Shopping**  
 **Hotel**: [Dormy Inn Nagoya Sakae](https://www.hotespa.net/hotels/nagoya_sakae/)  
 **Address**: 3-12-21 Nishiki, Naka Ward, Nagoya  

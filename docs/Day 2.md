@@ -1,4 +1,9 @@
-
+---
+title: Day 2
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 #### **Day 2: Technology & Science**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  
 **Transport**: Subway to Sakutei Station (15 mins).  

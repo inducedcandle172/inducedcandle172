@@ -1,3 +1,9 @@
+---
+title: Full Itinerary
+layout: default
+nav_order: 1
+---
+
 #### **Day 1: Arrival & Nagoya Highlights**  
 - **8:00 AM**: Breakfast at hotel.  
 - **9:30 AM – 12:00 PM**: **Nagoya Castle** ([Website](https://www.nagoyajo.city.nagoya.jp/)).  

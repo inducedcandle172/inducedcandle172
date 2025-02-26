@@ -1,3 +1,9 @@
+---
+title: Day 6
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 ### **Day 6: Hida Beef & Takayama**  
 **Hotel**: Richmond Hotel Nagoya Nayabashi  
 **Transport**: JR Hida train to Takayama (2.5 hours round-trip).  

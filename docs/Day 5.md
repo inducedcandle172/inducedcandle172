@@ -1,3 +1,9 @@
+---
+title: Day 5
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 ### **Day 5: Culture & Gardens**  
 **Hotel**: [Richmond Hotel Nagoya Nayabashi](https://www.richmondhotel.jp/nagoya-nayabashi/en/)  
 **Transport**: Subway to Atsuta Shrine (15 mins).  

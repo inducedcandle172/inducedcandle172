@@ -1,3 +1,9 @@
+---
+title: Day 4
+layout: default
+nav_order: 2
+parent: Full Itinerary
+---
 ### **Day 4: Nature (UNESCO Village)**  
 **Hotel**: Dormy Inn Nagoya Sakae  
 **Transport**: Bus to Shirakawa-go (3 hours round-trip).  

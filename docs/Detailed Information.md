@@ -1,6 +1,9 @@
+---
+title: Detailed Information
+layout: default
+nav_order: 1
+---
 ### ** Cost Breakdown**  
-### **Detailed Cost Breakdown**  
-
 | **Category**       | **Subcategory**                     | **Cost (¥)** | **Cost (HKD)** |  
 |---------------------|-------------------------------------|--------------|----------------|  
 | **Hotels**          | Richmond Hotel (6 nights)           | 72,000       | 3,744          |  
