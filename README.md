@@ -31,8 +31,8 @@ This 7-day itinerary is designed for a family of three, balancing **cultural exp
 
 ---
 
-## **Quick Links**  
-## **Quick Links**  
+## **Detailed Information**  
+
 - [Day 1](https://inducedcandle172.github.io/inducedcandle172/Day%201)  
 - [Day 2](https://inducedcandle172.github.io/inducedcandle172/Day%202)  
 - [Day 3](https://inducedcandle172.github.io/inducedcandle172/Day%203)  
